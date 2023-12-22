@@ -10,8 +10,7 @@ const noBtn = document.querySelector(".no-btn");
 
 siBtn.addEventListener("click", () => {
 
-question.innerHTML = "entonces noviemos";
-
+question.innerHTML = "puis nous devenons petits amis";
 gif.src =
 
 "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; });
